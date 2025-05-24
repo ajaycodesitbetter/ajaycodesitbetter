@@ -36,4 +36,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+- # AjayCodesItBetter 👋
+
+Welcome to my GitHub profile!
+
+## GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=radical)
+
 
