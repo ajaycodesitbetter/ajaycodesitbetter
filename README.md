@@ -1,4 +1,4 @@
-# AjayCodesItBetter
+# @AjayCodesItBetter
 
 Welcome to my personal repository! This repository is maintained with security best practices in mind.
 
