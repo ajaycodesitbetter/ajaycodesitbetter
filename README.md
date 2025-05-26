@@ -7,12 +7,12 @@ Hey there! I'm Ajay - an AI/ML student, developer, and gym enthusiast. Currently
 > "I don't just lift weights, I raise heart rates!"
 
 ##  Quick Facts
-- ?? 1st Year AI/ML Student @ Shriram College
-- ?? Minor in AI from IIT Ropar
-- ?? Gym enthusiast with a 6-day split
-- ?? Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)
+-  1st Year AI/ML Student @ Shriram College
+-  Minor in AI from IIT Ropar
+-  Gym enthusiast with a 6-day split
+-  Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)
 
-## ?? GitHub Stats
+##  GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=radical)
