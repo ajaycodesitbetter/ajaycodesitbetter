@@ -1,7 +1,7 @@
 # AjayCodesItBetter 
 Welcome to my GitHub profile!
 
-## ?? About Me
+##  About Me
 Hey there! I'm Ajay - an AI/ML student, developer, and gym enthusiast. Currently building the future with code, while maintaining a killer workout routine! 
 
 > "I don't just lift weights, I raise heart rates!"
