@@ -6,7 +6,7 @@ Hey there! I'm Ajay - an AI/ML student, developer, and gym enthusiast. Currently
 
 > "I don't just lift weights, I raise heart rates!"
 
-## ?? Quick Facts
+##  Quick Facts
 - ?? 1st Year AI/ML Student @ Shriram College
 - ?? Minor in AI from IIT Ropar
 - ?? Gym enthusiast with a 6-day split
