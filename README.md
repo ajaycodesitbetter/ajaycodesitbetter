@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student+%7C+Cyberpunk+Dev;Mike+Mentzer+Lifter+%7C+Heavy+Duty+Fan;AjayCodesItBetter+is+Live+and+Learning!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Mike+Mentzer+Lifter+%7C+Heavy+Duty+Fan;AjayCodesItBetter+is+Live+and+Learning!" />
 </p>
 
 <!-- HEADER TITLE -->
