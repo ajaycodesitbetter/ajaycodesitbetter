@@ -11,7 +11,7 @@
 
 <!-- HEADER TITLE -->
 <h1 align="center">AjayCodesItBetter</h1>
-<p align="center">Welcome to my neon-drenched corner of the matrix.</p>
+<p align="center">Welcome to my GitHub profile.</p>
 
 ---
 
