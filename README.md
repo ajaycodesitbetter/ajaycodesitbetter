@@ -4,12 +4,12 @@ Welcome to my GitHub profile!
 ##  About Me
 Hey there! I'm Ajay - an AI/ML student, developer, and gym enthusiast. Currently building the future with code, while maintaining a killer workout routine! 
 
-> "I don't just lift weights, I raise heart rates!"
+> "Lifting weights, pushing commits, and leveling up daily"
 
 ##  Quick Facts
 -  1st Year AI/ML Student @ Shriram College
 -  Minor in AI from IIT Ropar
--  Gym enthusiast with a 6-day split
+-  Gym enthusiast following Mike Mentzer's HDT
 -  Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)
 
 ##  GitHub Stats
