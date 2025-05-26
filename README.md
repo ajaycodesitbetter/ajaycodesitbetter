@@ -17,13 +17,13 @@ Hey there! I'm Ajay - an AI/ML student, developer, and gym enthusiast. Currently
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=radical)
 
-## ??? Tech Stack
+##  Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## ?? Connect With Me
+##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hot--ajaymathuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hot-ajaymathuriya)
 [![Instagram](https://img.shields.io/badge/Instagram-simplemancomplexmind-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simplemancomplexmind)
 [![Snapchat](https://img.shields.io/badge/Snap-seekin4reality-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/seekin4reality)
