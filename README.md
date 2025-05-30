@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Cyberpunk Greeting" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Cyberpunk Greeting" width="40%" />
 </p>
 
 
@@ -26,7 +26,7 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 ## 🔍 Quick Facts
 - 🧠 1st Year AI/ML Student @ Shriram College  
 - 🔍 Minor in AI from IIT Ropar  
-- 🏋‍♂ Gym enthusiast following Mike Mentzer’s HDT  
+-📚 Fascinated by Philosophy — a fan of Franz Kafka and Dostoevsky   
 - ❤‍🔥 Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)  
 
 ---
