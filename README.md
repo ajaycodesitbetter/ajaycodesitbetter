@@ -82,4 +82,8 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 
 
-Thankyou for your support :)
+## Thank You for Your Support! 🙏
+
+<p align="center">
+  <em>Keep coding, keep lifting, keep growing.</em>
+</p>
