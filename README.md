@@ -26,7 +26,7 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 ## 🔍 Quick Facts
 - 🧠 1st Year AI/ML Student @ Shriram College  
 - 🔍 Minor in AI from IIT Ropar  
--📚 Fascinated by Philosophy — a fan of Franz Kafka and Dostoevsky   
+- 📚 Fascinated by Philosophy — a fan of Franz Kafka and Dostoevsky   
 - ❤‍🔥 Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)  
 
 ---
