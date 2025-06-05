@@ -15,7 +15,7 @@
 <p align="center">
 
 <p align="center" style="font-size: 32px; font-weight: bold;">
-  🎉 Welcome to my GitHub profile. 🎉
+  🎉 Appreciate your time — dive in and say hi! 🎉
 </p>
 
 ## ⚡ About Me  
