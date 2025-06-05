@@ -13,31 +13,10 @@
 <!-- HEADER TITLE -->
 <h1 align="center">AjayCodesItBetter</h1>
 <p align="center">
-<p align="center" style="font-size: 32px; font-weight: bold;">
-  <img src="https://i.imgur.com/3G3x7jG.png" alt="Party Popper Left" width="60px" style="margin-right: 10px;">
-  Welcome to my GitHub profile.
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Party Popper Right" width="60px" style="margin-left: 10px;">
-</p>
 
-🔥 Option 3: Use Emojis Instead of Images
-If you’re open to using emojis (🎉) instead of images, they naturally face different directions and render consistently on GitHub:
-
-markdown
-Copy
-Edit
 <p align="center" style="font-size: 32px; font-weight: bold;">
   🎉 Welcome to my GitHub profile. 🎉
 </p>
-🛠️ What’s Best?
-🔑 If you want the images flipped, I can help you generate a mirrored version of your GIF using an external tool—just let me know.
-👉 If you prefer, you can also share both images (original and mirrored), and I’ll drop the ready-to-paste code.
-
-Would you like me to help flip the GIF image for you? Let me know! 🚀
-
-
-
-
-
 
 
 
