@@ -33,7 +33,11 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 ---
 
-## 🚀 GitHub Stats
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  🚀 GitHub Stats
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat GIF" width="40" />
+</h2>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=tokyonight" />
