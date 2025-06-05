@@ -12,7 +12,11 @@
 
 <!-- HEADER TITLE -->
 <h1 align="center">AjayCodesItBetter</h1>
-<p align="center">Welcome to my GitHub profile.</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Party Popper" width="40px" style="margin-right: 8px;">
+  Welcome to my GitHub profile.
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Party Popper" width="40px" style="margin-left: 8px;">
+</p>
 
 ---
 
