@@ -33,33 +33,20 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="85%" valign="top" align="center">
-      <!-- GitHub Stats Images here -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=tokyonight" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=tokyonight" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=tokyonight" />
-      </p>
-    </td>
-    <td width="15%" valign="middle" align="center">
-      <!-- Cat GIF on right side -->
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat GIF" width="100px" />
-    </td>
-  </tr>
-</table>
+## 🚀 GitHub Stats
 
----
-
-<!-- Your thin border -->
-<hr>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Dino Game" width="400" />
+</p>
 ---
 
 
