@@ -33,10 +33,17 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 ---
 
-<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  🚀 GitHub Stats
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat GIF" width="40" />
-</h2>
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle" style="font-size: 24px; font-weight: bold;">
+      🚀 GitHub Stats
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Cat GIF" width="40" />
+    </td>
+  </tr>
+</table>
+
 
 
 <p align="center">
