@@ -19,11 +19,6 @@
 </p>
 
 
-
-
-You’ve hit
----
-
 ## ⚡ About Me  
 Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Currently building the future with code while maintaining a killer workout routine.
 
