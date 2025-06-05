@@ -17,6 +17,7 @@
 <p align="center" style="font-size: 32px; font-weight: bold;">
   🎉 Welcome to my GitHub profile. 🎉
 </p>
+
 ## ⚡ About Me  
 Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Currently building the future with code while maintaining a killer workout routine.
 
