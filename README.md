@@ -14,10 +14,11 @@
 <h1 align="center">AjayCodesItBetter</h1>
 <p align="center">
 <p align="center" style="font-size: 32px; font-weight: bold;">
-  <img src="LEFT_POPPER_URL_HERE" alt="Party Popper Left" width="60px" style="margin-right: 10px;">
+  <img src="https://i.imgur.com/3G3x7jG.png" alt="Party Popper Left" width="60px" style="margin-right: 10px;">
   Welcome to my GitHub profile.
-  <img src="RIGHT_POPPER_URL_HERE" alt="Party Popper Right" width="60px" style="margin-left: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Party Popper Right" width="60px" style="margin-left: 10px;">
 </p>
+
 🔥 Option 3: Use Emojis Instead of Images
 If you’re open to using emojis (🎉) instead of images, they naturally face different directions and render consistently on GitHub:
 
