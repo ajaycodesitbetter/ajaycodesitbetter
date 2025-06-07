@@ -1,5 +1,6 @@
-<p aling="centre">
-  <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif"                </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" alt="Security Guard GIF">
+</p>
 
 
 
