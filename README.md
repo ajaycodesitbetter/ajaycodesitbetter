@@ -39,7 +39,7 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
   <img src="https://github-readme-stats.vercel.app/api?username=ajaycodesitbetter&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaycodesitbetter&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ajaycodesitbetter&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaycodesitbetter&layout=compact&theme=tokyonight" />
