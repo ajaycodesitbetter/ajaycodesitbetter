@@ -82,9 +82,9 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaycodesitbetter&label=Profile+Views" alt="Profile Views" />
-</p>
+## 👀 Visitor Count
+![Visitor Count](https://count.getloli.com/@ajaycodesitbetter?theme=green&darkmode=1)
+
 
 
 
