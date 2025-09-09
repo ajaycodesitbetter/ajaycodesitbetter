@@ -83,7 +83,7 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 ---
 
 
-## 👀 Visitor Count
+## 👀 Visitor Counts
 ![ajaycodesitbetter](https://count.getloli.com/@ajaycodesitbetter?name=ajaycodesitbetter&theme=booru-twifanartsfw&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
