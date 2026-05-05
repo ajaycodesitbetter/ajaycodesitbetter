@@ -93,6 +93,20 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 ## 👀 Visitor Counts
 ![ajaycodesitbetter](https://count.getloli.com/@ajaycodesitbetter?name=ajaycodesitbetter&theme=booru-twifanartsfw&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+---
+
+## 🌊 Hosted on DigitalOcean
+
+<p align="center">
+  <a href="https://www.digitalocean.com/?refcode=257fc7b0e266&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+    <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Sign up with my link &amp; get <strong>$200 free credit</strong> for 60 days!</em>
+</p>
+
 
 
 ## ThankYou for Your Support! 🙏
