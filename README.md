@@ -14,6 +14,13 @@
 <h1 align="center">AjayCodesItBetter</h1>
 <p align="center">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Builder-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML Builder" />
+  <img src="https://img.shields.io/badge/Data%20Science-Learner-0A66C2?style=for-the-badge&logo=python&logoColor=white" alt="Data Science Learner" />
+  <img src="https://img.shields.io/badge/Cloud-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Cloud DigitalOcean" />
+</p>
+
+
 <p align="center" style="font-size: 32px; font-weight: bold;">
   🎉 Appreciate your time — dive in and say hi! 🎉
 </p>
