@@ -2,17 +2,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Cyberpunk Greeting" width="40%" />
 </p>
 
-
-
-
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Mike+Mentzer+Lifter+%7C+Heavy+Duty+Fan;AjayCodesItBetter+is+Live+and+Learning!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Builder+of+Practical+Projects;AjayCodesItBetter+is+Live+and+Learning!" />
 </p>
 
 <!-- HEADER TITLE -->
 <h1 align="center">AjayCodesItBetter</h1>
 <p align="center">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Builder-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML Builder" />
@@ -20,22 +18,21 @@
   <img src="https://img.shields.io/badge/Cloud-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Cloud DigitalOcean" />
 </p>
 
-
 <p align="center" style="font-size: 32px; font-weight: bold;">
-  🎉 Appreciate your time — dive in and say hi! 🎉
+  Building, learning, and improving one project at a time.
 </p>
 
 ## ⚡ About Me  
-Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Currently building the future with code while maintaining a killer workout routine.
+Hey, I'm Ajay — an AI/ML student and developer who enjoys building practical projects across AI, data, and cloud. I like turning ideas into working systems and improving through consistent iteration.
 
-> "I apply intensity to both code and curls — Mentzer style."
+> "I apply intensity to both code and curls."
 
 ---
 
 ## 🔍 Quick Facts
 - 🧠 2nd Year AI/ML Student @ Shriram College  
 - 🔍 Minor in AI from IIT Ropar  
-- 📚 Fascinated by Philosophy — a fan of Franz Kafka and Dostoevsky   
+- 📚 Interested in philosophy — especially Franz Kafka and Dostoevsky  
 - ❤‍🔥 Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)  
 
 ---
@@ -89,7 +86,6 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 
 ---
 
-
 ## 👀 Visitor Counts
 ![ajaycodesitbetter](https://count.getloli.com/@ajaycodesitbetter?name=ajaycodesitbetter&theme=booru-twifanartsfw&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
@@ -104,18 +100,15 @@ Hey there! I'm Ajay — an AI/ML student, developer, and gym enthusiast. Current
 </p>
 
 <p align="center">
-  <em>Sign up with my link &amp; get <strong>$200 free credit</strong> for 60 days!</em>
+  <em>Hosted with DigitalOcean tools and services.</em>
 </p>
-
-
 
 ## ThankYou for Your Support! 🙏
 
 <p align="center">
-  <em>Keep coding, keep lifting, keep growing.</em>
+  <em>Keep coding, keep learning, keep growing.</em>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Celebration GIF" width="150px" />
 </p>
-
