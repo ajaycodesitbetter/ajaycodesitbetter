@@ -39,15 +39,15 @@ I like turning ideas into working systems, learning in public, and improving thr
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="./images/repos.svg" alt="Repository stats" />
+  <img src="https://raw.githubusercontent.com/ajaycodesitbetter/ajaycodesitbetter/main/images/repos.svg" alt="Repository stats" />
 </p>
 
 <p align="center">
-  <img src="./images/contribs.svg" alt="Contribution stats" />
+  <img src="https://raw.githubusercontent.com/ajaycodesitbetter/ajaycodesitbetter/main/images/contribs.svg" alt="Contribution stats" />
 </p>
 
 <p align="center">
-  <img src="./images/languages.svg" alt="Language stats" />
+  <img src="https://raw.githubusercontent.com/ajaycodesitbetter/ajaycodesitbetter/main/images/languages.svg" alt="Language stats" />
 </p>
 
 <p align="center">
