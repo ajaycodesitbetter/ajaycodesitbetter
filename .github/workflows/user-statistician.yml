@@ -21,6 +21,7 @@ jobs:
         with:
           image-file: images/languages.svg
           hide-keys: general, contributions, repositories
+          colors: '#0d1117 #1f2937 #22d3ee #e6edf3 #9fb3c8'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,6 +30,7 @@ jobs:
         with:
           image-file: images/contribs.svg
           hide-keys: general, languages, repositories
+          colors: '#0d1117 #1f2937 #22d3ee #e6edf3 #9fb3c8'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,5 +39,6 @@ jobs:
         with:
           image-file: images/repos.svg
           hide-keys: general, contributions, languages
+          colors: '#0d1117 #1f2937 #22d3ee #e6edf3 #9fb3c8'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
