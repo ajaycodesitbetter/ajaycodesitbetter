@@ -1,0 +1,41 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate languages stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/languages.svg
+          hide-keys: general, contributions, repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contributions stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/contribs.svg
+          hide-keys: general, languages, repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate repository stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/repos.svg
+          hide-keys: general, contributions, languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
