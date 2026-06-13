@@ -30,7 +30,7 @@ I like turning ideas into working systems, learning in public, and improving thr
 - 🎓 Minor in AI from IIT Ropar
 - 📚 Interested in philosophy — especially Franz Kafka and Dostoevsky
 - 🛠️ Exploring AI tooling, automation, cloud workflows, and open source
-- ❤‍🔥 Check out my [Dating Portfolio](https://ajaydoesitbetter.netlify.app)
+
 
 > "I apply intensity to both code and curls."
 
