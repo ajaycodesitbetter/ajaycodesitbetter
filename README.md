@@ -26,7 +26,7 @@ Hey, I'm Ajay — an AI/ML student focused on building practical projects across
 
 I like turning ideas into working systems, learning in public, and improving through consistent iteration.
 
-- 🧠 2nd Year AI/ML Student @ Shriram College
+- 🧠 3rd Year AI/ML Student @ Shriram College
 - 🎓 Minor in AI from IIT Ropar
 - 📚 Interested in philosophy — especially Franz Kafka and Dostoevsky
 - 🛠️ Exploring AI tooling, automation, cloud workflows, and open source
